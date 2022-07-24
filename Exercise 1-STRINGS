@@ -7,9 +7,22 @@
 
 
 
---------------------------------------------------------------------------------
+my_string = "In 2010, someone paid 10k Bitcoin for two pizzas."
+
+print(my_string[])
+
+
+
+
+-----------------------------------------------------------------------------------------
+
+1) Given the code below , insert the corect method in order to remove all spaces 
+2)Given the code replace all the occurences of the letter i with the substring btc 
+3)Given the string split the entire string in two parts , using the comma as a delimiter
+4)Given the string join the characters of the strings using the & symbol as a delimeter 
+5)Convert the first lete of each word in the string to uppercase. 
 
 
 my_string = "In 2010, someone paid 10k Bitcoin for two pizzas."
 
-print(my_string[])
+print(my_string.)
